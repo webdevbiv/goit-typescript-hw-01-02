@@ -49,7 +49,8 @@ npm run dev
 ## 🌙 Styling
 
 - Includes `normalize.css` and a custom dark theme.
-- Syntax highlighting via custom classes (`.keyword`, `.string`, `.number`, etc).
+- Syntax highlighting via custom classes (`.keyword`, `.string`, `.number`,
+  etc).
 
 ## 📚 Educational Purpose
 
@@ -62,5 +63,3 @@ This project is designed to practice:
 - 🔷 Functional patterns
 
 ---
-
-Built with ❤️ by [Your Name] as part of the GoIT TypeScript homework.
